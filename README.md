@@ -3,7 +3,8 @@
 
 ## Author
 [Onurcan Sever](https://github.com/onsever)
-  
+
+## Short Notes medium(https://medium.com/@manojddesilva/spring-core-short-notes-695504eaa3f9)
 ## Jakarta EE vs J2EE vs Java EE  
 * Jakarta EE (Jakarta Platform, Enterprise Edition)  
 * Java EE (Java Platform, Enterprise Edition)  
